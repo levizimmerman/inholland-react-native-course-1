@@ -49,19 +49,19 @@ class: invert
 ---
 <!-- class: default -->
 
-![bg right](../assets/machine-lang.png)
+![bg fit right](../assets/machine-lang.png)
 
 # Xamarin / Flutter
 
 ---
 
-![bg right](../assets/webview-only.png)
+![bg fit right](../assets/webview-only.png)
 
 # PhoneGap / Cordova / Ionic
 
 ---
 
-![bg right](../assets/react-native.png)
+![bg fit right](../assets/react-native.png)
 
 # React Native
 
