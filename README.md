@@ -4,11 +4,17 @@
 - [Brief History of Hybrid Development](https://levizimmerman.github.io/inholland-react-native-course-1/slides/brief-history-of-hybrid-development.html)
 
 ## Homework
-- TBD...
+- Start the Pokédex app project:
+    - Complete all four exercises: [Excercises](./excercises/README.md)
+    - Add a search functionality to the Pokédex app:
+        - Checkout the [Figma file](https://www.figma.com/design/dsgGXcu5WELIvRW90m5308/Pokemon-Code-Challenge?node-id=1-2&t=YPvOeo8ucY720wJ5-4).
+        - Add a search bar to the Pokédex app using the [`TextInput` component](https://reactnative.dev/docs/textinput).
+        - When typing in the search bar, filter the Pokémon list to only show the Pokémon that match the search query.
 
 ## References
-Useful links to read up on before the next course.
-- TBD...
+Useful links to checkout before the next course:
+- [State Management](https://github.com/alan2207/bulletproof-react/blob/master/docs/state-management.md)
+- [Tanstack Query](https://tanstack.com/query/latest/docs/framework/react/overview)
 
 Source material for Brief History of Hybrid Development presentation:
 - [JavaScript Mobile Development: Nativescript vs React Native](https://brainhub.eu/library/javascript-mobile-development-nativescript-react-native)

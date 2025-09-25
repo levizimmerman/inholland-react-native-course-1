@@ -18,8 +18,8 @@ For all exercises:
 1. **Create a GitHub repository** for your project
 2. **Commit your code** after completing each exercise
 3. **Write clear commit messages** describing what you implemented
-4. **Test your app** on both iOS and Android (or simulators)
-5. **Document any issues** you encountered and how you solved them
+4. **Test your app** ideally on both iOS and Android.
+5. **Push your code to GitHub** and share the repository with [me via Teams](https://teams.microsoft.com/l/chat/48:notes/conversations?context=%7B%22contextType%22%3A%22chat%22%7D).
 
 ## Helpful Commands
 

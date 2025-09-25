@@ -14,7 +14,7 @@ Master the essential React Native components: View, Text, Pressable, ScrollView,
 > **📚 Reference:** [React Native View Documentation](https://reactnative.dev/docs/view)
 
 #### 2. Text Component
-- Display Pokémon names, types, and descriptions
+- Display Pokémon names and IDs
 - Apply text styling and formatting
 
 > **📚 Reference:** [React Native Text Documentation](https://reactnative.dev/docs/text)
