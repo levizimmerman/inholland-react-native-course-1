@@ -25,8 +25,8 @@ class: invert
 | Approach | Performance Level | Examples |
 |----------|------------------|----------|
 | **Webview-based** | Lowest | PhoneGap, Cordova, Ionic, Capacitor |
-| **Bridge-based** | Improved | NativeScript |
-| **Custom Engine** | Near-native | Flutter, React Native |
+| **Bridge-based** | Near-native | NativeScript, React Native |
+| **Custom Engine** | Near-native | Flutter |
 | **Compiled Native** | Native | Xamarin, KMM |
 | **Compiler-optimized** | Excellent | Svelte Native |
 
@@ -109,6 +109,10 @@ class: invert
 ---
 
 ![bg fit](../assets/rn-is-the-best.png)
+
+---
+
+![bg fit](../assets/chasm.png)
 
 ---
 
