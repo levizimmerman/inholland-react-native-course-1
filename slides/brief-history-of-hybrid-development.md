@@ -120,3 +120,5 @@ class: invert
 - Share what makes sense
 - One size doesn't fit all
 - Line between web and app continues to blur
+
+![bg right w:350](../assets/qr-code.png)
