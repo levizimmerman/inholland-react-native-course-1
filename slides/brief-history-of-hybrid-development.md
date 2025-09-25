@@ -46,55 +46,28 @@ class: invert
 
 # It is all about balance
 
-<style>
-.three-column {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 20px;
-  background: white;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
+---
+<!-- class: default -->
 
-.column {
-  flex: 1;
-  text-align: center;
-}
+![bg right](../assets/machine-lang.png)
 
-.column img {
-  width: 100%;
-  max-width: 200px;
-  height: auto;
-  border-radius: 4px;
-  margin-bottom: 10px;
-}
-
-.caption {
-  font-size: 14px;
-  color: #666;
-  font-style: italic;
-  margin-top: 8px;
-}
-</style>
-
-<div class="three-column">
-  <div class="column">
-    <img src="../assets/machine-lang.png" alt="Machine Language">
-    <div class="caption">Xamarin / Flutter</div>
-  </div>
-  <div class="column">
-    <img src="../assets/webview-only.png" alt="WebView Only">
-    <div class="caption">PhoneGap / Cordova / Ionic</div>
-  </div>
-  <div class="column">
-    <img src="../assets/react-native.png" alt="React Native">
-    <div class="caption">React Native</div>
-  </div>
-</div>
+# Xamarin / Flutter
 
 ---
+
+![bg right](../assets/webview-only.png)
+
+# PhoneGap / Cordova / Ionic
+
+---
+
+![bg right](../assets/react-native.png)
+
+# React Native
+
+---
+
+<!-- class: invert -->
 
 ![bg fit](../assets/js-frameworks.png)
 
