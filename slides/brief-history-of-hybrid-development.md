@@ -4,6 +4,16 @@ theme: default
 class: invert
 ---
 
+# Agenda
+
+1. Brief History of Hybrid Development
+2. Exercises:
+    1. Project setup
+    2. Creating a Page and Styling It
+    3. Key Components
+    4. Navigation - Stacks and Tabs
+---
+
 # Brief History of Hybrid Development
 
 "Write once, run anywhere"
@@ -99,3 +109,14 @@ class: invert
 - Line between web and app continues to blur
 
 ![bg right w:350](../assets/qr-code.png)
+
+---
+
+## Exercises
+
+1. Project setup
+2. Creating a Page and Styling It
+3. Key Components
+4. Navigation - Stacks and Tabs
+
+![bg right w:350](../assets/qr-code-exercises.png)
