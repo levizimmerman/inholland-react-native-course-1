@@ -39,6 +39,21 @@ Start with the empty `pokemon.tsx` file from the previous exercise and create th
 #### Step 2: Add Pokémon Data
 Add a Pokémon data to `contansts/pokemon.ts`. Add 10 Pokémon entries, each containing `id`, `name`, and `type` properties.
 
+```typescript
+export const pokemonData = [
+  { id: 1, name: "Pikachu", type: "Electric" },
+  { id: 2, name: "Charmander", type: "Fire" },
+  { id: 3, name: "Squirtle", type: "Water" },
+  { id: 4, name: "Bulbasaur", type: "Grass" },
+  { id: 5, name: "Charizard", type: "Fire" },
+  { id: 6, name: "Blastoise", type: "Water" },
+  { id: 7, name: "Venusaur", type: "Grass" },
+  { id: 8, name: "Gengar", type: "Ghost" },
+  { id: 9, name: "Mewtwo", type: "Psychic" },
+  { id: 10, name: "Mew", type: "Psychic" },
+];
+
+```
 
 #### Step 3: Create a Simple Pokémon Card with View and Text
 Replace the title with a simple card using `View` and `Text` components to display a Pokémon name, and add appropriate styles for the card and text.
